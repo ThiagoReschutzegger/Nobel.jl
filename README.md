@@ -1,2 +1,2 @@
-# Nobel.jl
-A fully differentiable process simulator
+# Lavoisier.jl
+A fully differentiable process simulator.
